@@ -9,7 +9,7 @@
 ⚡ <b>Fun fact:</b> Estudei programação há 8 anos e desisti porque achava chato, agora vou fazer uma licenciatura porque não me imagino a fazer outra coisa!<br><br><br> <br>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/JotaBarbosaDev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JotaBarbosaDev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaBarbosaDev&theme=dracula&hide_border=false&&layout=compact"/>
   </a>

@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">
-    Olá, Tudo bem? Eu sou o 
+    Olá, Tudo bem? Sou o 
     <a href="https://www.linkedin.com/in/jo%C3%A3o-barbosa-1a76b7263/">Jota 😃️</a>
   </h1>
 

@@ -6,7 +6,7 @@
 
 🔭 Sou Freelancer em front-end<br><br>
 🌱 Estou a estudar para trabalhar como desenvolvedor a tempo inteiro<br><br>
-⚡ <b>Fun fact:</b> Estudei programação há 7 anos e desisti porque achava chato, agora vou fazer uma licenciatura porque não me imagino a fazer outra coisa!<br><br><br> <br>
+⚡ <b>Fun fact:</b> Há 7 anos estudei programação e desisti porque achava chato, agora vou fazer uma licenciatura porque não me imagino a fazer outra coisa!<br><br><br> <br>
 
 <div align="center">
   <a href="https://github.com/JotaBarbosaDev">

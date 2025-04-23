@@ -3,17 +3,18 @@
 </h1>
 
 <p align="center">
-  <em>💻 Programador Front-end Freelancer | 🚀 À procura de novas oportunidades</em>
+  <em>💻 Estudante de Engenharia Informática | 🚀 Programador Front-end</em>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente trabalho como **Freelancer Front-end**
-- 🌱 A estudar e a aperfeiçoar-me para trabalhar como programador a tempo inteiro
+- 🎓 Atualmente a frequentar Licenciatura em **Engenharia Informática no IPVC**
+- 🔭 A criar projetos pessoais em **Front-end**, a minha área de maior interesse
+- 🌱 Embora prefira desenvolvimento frontend, procuro aprender um pouco de tudo
 - 💡 Apaixonado por criar interfaces intuitivas e responsivas
-- 🌎 Disponível para projetos remotos e colaborações
+- 🌎 Interessado em colaborações e oportunidades de aprendizagem
 - ⚡ Curiosidade: Transformo café em código ☕💻
 
 ---
@@ -21,9 +22,10 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS" />
-  <!-- Adiciona mais tecnologias conforme os teus conhecimentos -->
-  <img src="https://skillicons.dev/icons?i=react,sass,git" alt="React, SASS, Git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JS, TS" />
+  <img src="https://skillicons.dev/icons?i=cs,java,c" alt="C#, Java, C" title="C#, Java, C" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind" alt="React, Tailwind" title="React, Tailwind" />
+  <img src="https://skillicons.dev/icons?i=sass,postgres,git" alt="SASS, PostgreSQL, Git" title="SASS, PostgreSQL, Git" />
   <img src="https://skillicons.dev/icons?i=vscode,figma,github" alt="VSCode, Figma, GitHub" />
 </div>
 
@@ -43,13 +45,25 @@
 ### 🌟 Projetos em Destaque
 
 <div align="center">
-  <!-- Instruções: Substitui os comentários abaixo pelos teus projetos reais -->
-
+  <!-- Moto Clube Mouroso -->
   <a href="https://github.com/JotaBarbosaDev/motoClubeMouroso">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JotaBarbosaDev&repo=nome-do-teu-repositorio&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/Moto%20Clube%20Mouroso-Sistema%20para%20Motoclubes-blue?style=for-the-badge&logo=motorcycle" alt="Sistema para Motoclubes"/>
   </a>
-
-  <p>Brevemente adicionarei os meus projetos mais interessantes aqui! 🚀</p>
+  <br>
+  <!-- Portfolio IHM -->
+  <a href="https://github.com/JotaBarbosaDev/PortfolioIHM">
+    <img src="https://img.shields.io/badge/Portfolio%20IHM-Currículo%20Digital-purple?style=for-the-badge&logo=user" alt="Currículo Digital"/>
+  </a>
+  <br>
+  <!-- Ativo Plus Frontend -->
+  <a href="https://github.com/JotaBarbosaDev/AtivoPlusFrontend">
+    <img src="https://img.shields.io/badge/Ativo%20Plus-Gestão%20de%20Ativos%20Financeiros-green?style=for-the-badge&logo=monetization-on" alt="Gestão Financeira"/>
+  </a>
+  <br>
+  <!-- Meal Planer -->
+  <a href="https://github.com/JotaBarbosaDev/MealPlaner">
+    <img src="https://img.shields.io/badge/Meal%20Planer-Gestão%20de%20Dieta%20e%20Treinos-orange?style=for-the-badge&logo=food-bank" alt="Gestão de Dieta e Treinos"/>
+  </a>
 </div>
 
 ---
@@ -71,16 +85,15 @@
 ---
 
 <div align="center">
-  <!-- Animação da Snake atualizada -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JotaBarbosaDev/JotaBarbosaDev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JotaBarbosaDev/JotaBarbosaDev/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JotaBarbosaDev/JotaBarbosaDev/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <!-- Animação da Snake apenas no modo escuro -->
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
 </div>
 
 <div align="center">
   <br>
-  <p>Feito com ❤️ e JavaScript</p>
+  <p>A teclar com ❤️!</p>
 </div>
 

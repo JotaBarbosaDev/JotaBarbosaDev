@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>💻 Desenvolvedor Front-end Freelancer | 🚀 Em busca de novas oportunidades</em>
+  <em>💻 Programador Front-end Freelancer | 🚀 À procura de novas oportunidades</em>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 👨‍💻 Sobre Mim
 
 - 🔭 Atualmente trabalho como **Freelancer Front-end**
-- 🌱 Estudando e me aperfeiçoando para trabalhar como desenvolvedor a tempo integral
+- 🌱 A estudar e a aperfeiçoar-me para trabalhar como programador a tempo inteiro
 - 💡 Apaixonado por criar interfaces intuitivas e responsivas
 - 🌎 Disponível para projetos remotos e colaborações
 - ⚡ Curiosidade: Transformo café em código ☕💻
@@ -22,7 +22,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS" />
-  <!-- Adicione mais tecnologias conforme seus conhecimentos -->
+  <!-- Adiciona mais tecnologias conforme os teus conhecimentos -->
   <img src="https://skillicons.dev/icons?i=react,sass,git" alt="React, SASS, Git" />
   <img src="https://skillicons.dev/icons?i=vscode,figma,github" alt="VSCode, Figma, GitHub" />
 </div>
@@ -43,16 +43,18 @@
 ### 🌟 Projetos em Destaque
 
 <div align="center">
-  <!-- Se tiver projetos para destacar, adicione aqui -->
-  <a href="https://github.com/JotaBarbosaDev/projeto-exemplo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JotaBarbosaDev&repo=projeto-exemplo&theme=tokyonight" />
+  <!-- Instruções: Substitui os comentários abaixo pelos teus projetos reais -->
+
+  <a href="https://github.com/JotaBarbosaDev/motoClubeMouroso">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JotaBarbosaDev&repo=nome-do-teu-repositorio&theme=tokyonight" />
   </a>
-  <!-- Adicione outros projetos se desejar -->
+
+  <p>Brevemente adicionarei os meus projetos mais interessantes aqui! 🚀</p>
 </div>
 
 ---
 
-### 📱 Contatos
+### 📱 Contactos
 
 <div align="center">
   <a href="https://instagram.com/joao.barbosa.37" target="_blank">
@@ -71,9 +73,9 @@
 <div align="center">
   <!-- Animação da Snake atualizada -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JotaBarbosaDev/JotaBarbosaDev/raw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JotaBarbosaDev/JotaBarbosaDev/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/JotaBarbosaDev/JotaBarbosaDev/raw/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JotaBarbosaDev/JotaBarbosaDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JotaBarbosaDev/JotaBarbosaDev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JotaBarbosaDev/JotaBarbosaDev/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 

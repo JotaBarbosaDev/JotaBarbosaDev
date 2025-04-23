@@ -1,43 +1,84 @@
-### 
 <h1 align="center">
-    Olá, Tudo bem? Sou o 
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-barbosa-1a76b7263/">Jota 😃️</a>
-  </h1>
+  Olá, Tudo bem? Sou o <a href="https://www.linkedin.com/in/jo%C3%A3o-barbosa-1a76b7263/">João Barbosa (Jota) 😃</a>
+</h1>
 
-🔭 Sou Freelancer em front-end<br><br>
-🌱 Estou a estudar para trabalhar como desenvolvedor a tempo inteiro<br><br>
+<p align="center">
+  <em>💻 Desenvolvedor Front-end Freelancer | 🚀 Em busca de novas oportunidades</em>
+</p>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+- 🔭 Atualmente trabalho como **Freelancer Front-end**
+- 🌱 Estudando e me aperfeiçoando para trabalhar como desenvolvedor a tempo integral
+- 💡 Apaixonado por criar interfaces intuitivas e responsivas
+- 🌎 Disponível para projetos remotos e colaborações
+- ⚡ Curiosidade: Transformo café em código ☕💻
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JS" />
+  <!-- Adicione mais tecnologias conforme seus conhecimentos -->
+  <img src="https://skillicons.dev/icons?i=react,sass,git" alt="React, SASS, Git" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,github" alt="VSCode, Figma, GitHub" />
+</div>
+
+---
+
+### 📊 Estatísticas GitHub
 
 <div align="center">
   <a href="https://github.com/JotaBarbosaDev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JotaBarbosaDev&show_icons=true&theme=dracula"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaBarbosaDev&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaBarbosaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaBarbosaDev&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
-<!--Link para os icons de mais linguagens:   https://devicon.dev/-->
-<div align="center" valign="top"><br>
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/1282416/screenshots/2857106/media/160309d3eab364fb86e8d2a158b20059.gif">
-  </div>
-  
-  ##
- <!--Link para estilo de botões das redes sociais: https://dev.to/envoy_/150-badges-for-github-pnk-->
-<div align="center" valign="top"><br> 
-  <a href="https://instagram.com/joao.barbosa.37" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jotambbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-barbosa-1a76b7263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br><br><br>
+---
+
+### 🌟 Projetos em Destaque
 
 <div align="center">
+  <!-- Se tiver projetos para destacar, adicione aqui -->
+  <a href="https://github.com/JotaBarbosaDev/projeto-exemplo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JotaBarbosaDev&repo=projeto-exemplo&theme=tokyonight" />
+  </a>
+  <!-- Adicione outros projetos se desejar -->
+</div>
 
-  ![Snake animation](https://github.com/JotaBarbosaDev/JotaBarbosaDev/blob/output/github-contribution-grid-snake.svg)
-  
+---
+
+### 📱 Contatos
+
+<div align="center">
+  <a href="https://instagram.com/joao.barbosa.37" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:jotambbarbosa@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-barbosa-1a76b7263/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <!-- Animação da Snake atualizada -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JotaBarbosaDev/JotaBarbosaDev/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JotaBarbosaDev/JotaBarbosaDev/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/JotaBarbosaDev/JotaBarbosaDev/raw/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <br>
+  <p>Feito com ❤️ e JavaScript</p>
 </div>
 
